@@ -1,2 +1,1 @@
-# react-to-do
-A To Do List App to learn about state in React
+Quick to-do list app to learn about state in react
