@@ -1,1 +1,3 @@
-Quick to-do list app to learn about state in react
+# To do List in React.
+
+A quick to do list app developed as an exercise to learn about State in ReactJS. 
